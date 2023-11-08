@@ -1,4 +1,4 @@
-from Functions import global_vars as g
+import global_vars as g
 import pygame
 from random import randint
 

@@ -1,7 +1,6 @@
-from Functions import global_vars as g
-from Functions import board
+import global_vars as g
+import board
 import pygame
-from pygame.locals import *
 from time import sleep
 
 

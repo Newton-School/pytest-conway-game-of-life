@@ -1,5 +1,5 @@
-from Functions import board
-from Functions import my_shapes as s
+import board
+import my_shapes as s
 import pygame
 
 pygame.font.init()

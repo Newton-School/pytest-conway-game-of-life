@@ -1,4 +1,4 @@
-from Functions import global_vars as g
+import global_vars as g
 
 
 def cell(x, y, matrix, y_max, x_max, orientation):      # ID: 0000
